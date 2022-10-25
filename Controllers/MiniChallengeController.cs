@@ -1,3 +1,9 @@
+// Amardeep Mann
+// 10-25-22
+// Mini Challenge #1 - Endpoints
+// We'll make some endpoints for our past projects so that we can access them via a WebAPI
+// Peer reviewed by
+
 using Microsoft.AspNetCore.Mvc;
 
 namespace MannAMiniCh_1.Controllers;
