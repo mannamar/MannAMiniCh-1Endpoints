@@ -2,7 +2,7 @@
 // 10-25-22
 // Mini Challenge #1 - Endpoints
 // We'll make some endpoints for our past projects so that we can access them via a WebAPI
-// Peer reviewed by
+// Peer reviewed by Kenneth Fujimura: Great work. All of the calls for this API work correctly. Amar you went above and beyond getting that much working code for your end points. I didn't see any problems or errors while looking over your code. It's really neat too that you got all of the random calculations for things like the Restaurant Picker done as well. Keep up the great work!
 
 using Microsoft.AspNetCore.Mvc;
 
